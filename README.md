@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SorenKrokfors
 - 👀 I’m interested in programming .NET C#,Web
-- 🌱 I’m currently learning Microsoft CADL
+- 🌱 I’m currently learning Microsoft TypeSpec
 - 💞️ I’m looking to collaborate on ...learning
 - 📫 soren.krokfors@leanders.fi
 
