@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SorenKrokfors
 - 👀 I’m interested in programming .NET C#,Web
-- 🌱 I’m currently learning Microsoft TypeSpec
+- 🌱 I’m currently learning Modular monolith 
 - 💞️ I’m looking to collaborate on ...learning
 - 📫 soren.krokfors@leanders.fi
 
